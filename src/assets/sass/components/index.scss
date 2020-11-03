@@ -1,0 +1,35 @@
+
+
+#banner{
+
+    
+    img{
+        width: 150px;
+        height: auto;
+        border-radius: 100%;
+       
+
+        
+    }
+}
+
+.skills-container{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    
+
+   p{
+       
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   }
+}
+
+.svg{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    padding: 10px;
+}
