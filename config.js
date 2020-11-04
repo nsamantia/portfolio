@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter SolidState', // <title>
+  siteTitle: 'Nick Amantia Portfolio', // <title>
   manifestName: 'SolidState',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
