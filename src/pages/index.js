@@ -13,7 +13,7 @@ import dono from '../assets/images/dono.png';
 const IndexPage = () => (
   <Layout >
     <section id="wrapper">
-      <header>
+      <header className="header">
         <div className="inner">
         <div classNme="img-container" >
           <span className="icon "><img src={headshot} alt=""/></span>

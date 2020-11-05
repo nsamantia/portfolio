@@ -26,6 +26,7 @@
 }
 
 #wrapper {
+
   > header {
     @include padding(
       7.5em,
@@ -67,6 +68,7 @@
           transparentize(_palette(bg), 0.2)
         ),
         url('../images/bg4.jpg');
+        background-repeat: no-repeat;
 
       background-size: auto, cover;
 
