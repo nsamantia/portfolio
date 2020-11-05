@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Nick Amantia Portfolio', // <title>
   manifestName: 'SolidState',
   manifestShortName: 'Landing', // max 12 characters
-  manifestStartUrl: '/Generic',
+  manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
