@@ -111,7 +111,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Desert Plant Shop</h3>
               <p>
-              Full stack e-commerence app for purchasing plants. This app was created to give users an easy shopping expereice by having a clean UI and being able to checkout useing Stripe.
+              Full stack ecommerce app for purchasing plants. This app was created to give users an easy shopping experience by having a clean UI and being able to checkout through Stripe.
               </p>
               <a href="https://desertplantshop.com/" target="_blank" className="special">
                 Desertplantshop.com
@@ -125,9 +125,10 @@ const IndexPage = () => (
               <h3 className="major">dono.</h3>
               <p>
               React web app for hiring local people to remove unwanted items from your house.
-              
-              Users can upload photos of thier items useing Amazon S3 Buckets. When a users's item has been accepted, they can chat with the peron picking up the item through a chat system created with Socket.io.
-              Dono has a strong focus on user experience therefore, this app was designed to be used on mobile devices.
+            
+             Users can upload photos of their items using Amazon S3 Buckets. When a user's item has been accepted, they can chat with the person picking up the item through a chat system created with Socket.io.
+             Dono has a strong focus on user experience therefore, this app was designed to be used on mobile devices.
+
               </p>
               <a href="https://donationdono.us/" target="_blank" className="special">
                 donationdono.us
