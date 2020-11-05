@@ -2,11 +2,11 @@ module.exports = {
   siteTitle: 'Nick Amantia Portfolio', // <title>
   manifestName: 'SolidState',
   manifestShortName: 'Landing', // max 12 characters
-  manifestStartUrl: '/',
+  manifestStartUrl: '/Generic',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/img/website-icon.png',
+  manifestIcon: 'src/assets/images/leaf.png', //Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Anubhav Srivastava',
   subHeading: 'Full time Web Developer. Part time Open source contributor  ',
