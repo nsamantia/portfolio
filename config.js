@@ -8,31 +8,31 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/images/leaf.png', //Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'Nick Amantia',
+  subHeading: 'Web Developer.',
   // social
-  socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
-    {
-      icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
-    },
-  ],
-  phone: '000-00000',
-  address: '305 Del Sol, Sunnyvale, CA',
+//   socialLinks: [
+//     {
+//       icon: 'fa-github',
+//       name: 'Github',
+//       url: 'https://github.com/anubhavsrivastava',
+//     },
+//     {
+//       icon: 'fa-twitter',
+//       name: 'Twitter',
+//       url: 'https://twitter.com/onlyanubhav',
+//     },
+//     {
+//       icon: 'fa-facebook',
+//       name: 'Facebook',
+//       url: 'https://facebook.com/theanubhav',
+//     },
+//     {
+//       icon: 'fa-envelope-o',
+//       name: 'Email',
+//       url: 'mailto:anubhav.srivastava00@gmail.com',
+//     },
+//   ],
+//   phone: '000-00000',
+//   address: '305 Del Sol, Sunnyvale, CA',
 };
