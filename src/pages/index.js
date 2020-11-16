@@ -126,7 +126,7 @@ const IndexPage = () => (
               <p>
               React web app for hiring local people to remove unwanted items from your house.
             
-             Users can upload photos of their items using Amazon S3 Buckets. When a user's item has been accepted, they can chat with the person picking up the item through a chat system created with Socket.io.
+             Users can upload photos of their items using Amazon S3 Buckets. When a user's item has been accepted, they can engage with the person picking up the item through a chat system created with Socket.io.
              Dono has a strong focus on user experience therefore, this app was designed to be used on mobile devices.
 
               </p>

@@ -19,5 +19,44 @@
         
     }
 
-    
+
+
+}
+
+.looking-container{
+    padding-left: 30px;
+}
+
+.info-container{
+    padding-left: 30px;
+}
+.major{
+    padding-left: 30px;
+}
+
+@media only screen and (max-width: 700px){
+
+    .major{
+        padding: 20px;
+    }
+
+
+    .looking{
+        display: flex;
+        width: 100vw;
+        padding: 20px;
+       
+        
+    }
+
+    .link-container{
+       justify-content: left;
+       padding: 20px;
+       gap: 10px;
+    }
+
+    .info-container{
+        margin-left: 20px;
+    }
+
 }
