@@ -27,10 +27,7 @@ const IndexPage = () => (
         <div className="inner">
           <h3 className="major">About Me</h3>
           <p>
-          I’m a web developer from New Jersey. I have a passion for creating web apps and learning new technologies. I love solving difficult problems and challenging myself.
-          After working in fields where these things weren't giving me satisfaction, I am excited that being a developer does.
-
-      When I'm not coding, I'm usually in the garden or greenhouse tending to my plants.
+          I’m a web developer from New Jersey with a passion for creating web apps and learning new technologies. I love solving difficult problems and challenging myself. I started my technology career focused on hardware and system implementations but the creative side of me needed more. Being a developer has given me an avenue to funnel my creative ideas to solve problems. When I'm not coding, I'm usually in the garden or greenhouse tending to my plants.
 
           </p>
 

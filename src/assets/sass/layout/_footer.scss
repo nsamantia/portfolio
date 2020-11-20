@@ -13,10 +13,10 @@
     @include vendor('flex-direction', 'row');
     @include vendor('flex-wrap', 'wrap');
     margin: 0 auto;
-    width: _size(inner);
+    width: 100vw;
 
-    > * {
-      width: 100%;
+    > * { 
+      width: 100vw;
     }
 
     form {
