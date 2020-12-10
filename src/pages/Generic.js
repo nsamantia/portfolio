@@ -88,8 +88,10 @@ const IndexPage = () => (
 
           <section className="features">
             <article>
-              <a href="/#" className="image">
-                <img src={dps} alt="" />
+              <a  className="image">
+                {/* <img src={dps} alt="" /> */}
+
+                <iframe width="415" height="315" src="https://www.youtube.com/embed/k3BtszohWFE" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </a>
               <h3 className="major">Desert Plant Shop</h3>
               <p>
@@ -101,7 +103,7 @@ const IndexPage = () => (
               <a href="https://github.com/nsamantia/Desert-Plant-Shop" className="special">Github Repository</a>
             </article>
             <article>
-              <a href="/#" className="image">
+              <a  className="image">
                 <img src={dono} alt="" />
               </a>
               <h3 className="major">dono.</h3>
