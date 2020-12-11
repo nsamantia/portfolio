@@ -104,9 +104,9 @@ const IndexPage = () => (
           <section className="features">
             <article>
               <a href="/#" className="image">
-                  <div className="youtube-container">
+                  
                     <iframe className="youtube" src="https://www.youtube.com/embed/k3BtszohWFE" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
+                  
               </a>
               <h3 className="major">Desert Plant Shop</h3>
               <p>
