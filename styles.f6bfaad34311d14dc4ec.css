@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic);#banner img{width:50px}#banner img,img{height:auto;border-radius:100%}img{width:150px}.skills-container{display:flex;align-items:center;justify-content:center;flex-direction:row;flex-wrap:wrap;width:60vw}.skills-container p{align-items:center;padding:10px}.skills-container p,.svg{display:flex;flex-direction:column}.svg{width:3em}img{width:100}@media only screen and (max-width:700px){.skills-container{width:80vw}}
+@import url(https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic);#banner img{width:50px}#banner img,img{height:auto;border-radius:100%}img{width:150px}.skills-container{display:flex;align-items:center;justify-content:center;flex-direction:row;flex-wrap:wrap;width:60vw}.skills-container p{align-items:center;padding:10px}.skills-container p,.svg{display:flex;flex-direction:column}.svg{width:3em}img{width:100}.youtube{width:100%;height:260px}@media only screen and (max-width:700px){.skills-container{width:80vw}}
 
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
